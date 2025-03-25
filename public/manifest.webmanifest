@@ -1,0 +1,21 @@
+{
+    "name": "Calculatrice",
+    "short_name": "Calc",
+    "start_url": "/calculator",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#f1a33c",
+    "description": "Une calculatrice moderne avec Vue.js et Laravel",
+    "icons": [
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
